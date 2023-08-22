@@ -33,7 +33,7 @@ The app should now be running on [http://localhost:3000](http://localhost:3000)
 
 ### Additional Styling:
 
-The project also utilizes the `bg_animation.css` file for specific background animations and additional styles. This is imported directly in the `App.tsx` component, ensuring the styles are applied automatically when the app runs.
+The project also utilizes the `MainStructures.css` file for specific background animations and additional styles. This is imported directly in the `MainStructures.tsx` component, ensuring the styles are applied automatically when the app runs.
 
 
 
